@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/colorPrimaryLight"
+    android:layout_height="240dp">
+
+    <ImageView
+        android:id="@+id/ImgProfileIcon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/profile_icon" />
+
+    <TextView
+        android:id="@+id/txtProfileName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="30dp"
+        android:layout_below="@+id/ImgProfileIcon"
+        android:text="Root"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:fontFamily="@font/poppins_medium"/>
+
+    <TextView
+        android:id="@+id/txtMobileNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtProfileName"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="30dp"
+        android:text="+91-9876543210"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:fontFamily="@font/poppins_regular"/>
+
+
+</RelativeLayout>
