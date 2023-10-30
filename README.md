@@ -4,15 +4,8 @@ DineSathi is an Demo Android food ordering app. The app is created using Kotlin 
 
 ## Screenshots
 
-!https://drive.google.com/file/d/15LVkGNLSTw97P9aVx5SrqQaavsyEvi0r/view?usp=sharing
-
-!https://drive.google.com/file/d/1jR1RCnTZtCMnIlL4ATocfuL-fd96ypMg/view?usp=sharing
-
-!https://drive.google.com/file/d/11z4VdcK045FFT6wIPxG8bSRUPEoJFDnM/view?usp=sharing
-
-!https://drive.google.com/file/d/13xS9i2vp_RbpygyaWVAwJKmbxVF_HE-y/view?usp=sharing
-
-!https://drive.google.com/file/d/18JSVeQsfjvvAYWrDixxyJNHr9JGop78s/view?usp=sharing
+| ![screenshot](https://github.com/iAryanK/DineSathi/blob/main/screenshots/Screenshot_20230926_202847_DineSathi.jpg) | ![screenshot](https://github.com/iAryanK/DineSathi/blob/main/screenshots/Screenshot_20230926_202910_DineSathi.jpg)  | ![screenshot](https://github.com/iAryanK/DineSathi/blob/main/screenshots/Screenshot_20230926_202944_DineSathi.jpg)  | ![screenshot](https://github.com/iAryanK/DineSathi/blob/main/screenshots/Screenshot_20230926_202957_DineSathi.jpg)  | 
+| -------------------------- | -------------------------- | -------------------------- | -------------------------- |
 
 ## Features
 
